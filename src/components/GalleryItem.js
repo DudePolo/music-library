@@ -60,7 +60,6 @@ function GalleryItem(props) {
 
         </div>
     )
-
 }
 
 export default GalleryItem
